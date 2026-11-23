@@ -15,7 +15,7 @@
 
 <table><tr>
 <td valign="top" width="70%">I build full-stack cloud systems by day and play story-driven games by night.<br/><br/><b>Focus:</b> `Java / Spring Boot` · `AWS / Azure` · `C++ / DSA`<br/><br/><sub>Cloud-native backends, serverless architectures, and distributed systems that hold up under load.</sub></td>
-<td valign="top"><code>LIVE SIGNAL</code><br/><br/><b>27</b> repositories<br/><b>0</b> stars<br/><b>323</b> contributions<br/><b>0</b> followers</td>
+<td valign="top"><code>LIVE SIGNAL</code><br/><br/><b>27</b> repositories<br/><b>0</b> stars<br/><b>324</b> contributions<br/><b>0</b> followers</td>
 </tr></table>
 
 <p align="center">✦ ─────────────── ✦</p>
