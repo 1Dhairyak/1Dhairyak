@@ -15,7 +15,7 @@
 
 <table><tr>
 <td valign="top" width="70%">I build full-stack cloud systems by day and play story-driven games by night.<br/><br/><b>Focus:</b> `Java / Spring Boot` · `AWS / Azure` · `C++ / DSA`<br/><br/><sub>Cloud-native backends, serverless architectures, and distributed systems that hold up under load.</sub></td>
-<td valign="top"><code>LIVE SIGNAL</code><br/><br/><b>27</b> repositories<br/><b>324</b> contributions<br/><b>71</b> active days<br/><b>9</b> languages</td>
+<td valign="top"><code>LIVE SIGNAL</code><br/><br/><b>26</b> repositories<br/><b>329</b> contributions<br/><b>70</b> active days<br/><b>9</b> languages</td>
 </tr></table>
 
 <p align="center">✦ ─────────────── ✦</p>
@@ -42,7 +42,7 @@
 
 <img src="assets/launch.svg" width="100%" alt="Featured projects timeline" />
 
-<table><tr><td valign="top" width="25%"><a href="https://github.com/1Dhairyak/Spotify-YouTube-music-visualizer-software"><b>music-visualizer</b></a><br/><br/>Turns whatever you play on Spotify or YouTube Music into time-synced lyrics drawn as a glowing constellation. <br/><br/><sub>JavaScript · updated Nov 2026</sub></td><td valign="top" width="25%"><a href="https://github.com/1Dhairyak/Nova-stack-Full-stack-space-data-dashboard-with-real-time-WebSocket-streaming"><b>nova-stack</b></a><br/><br/>Nova is a real-time space operations dashboard — essentially a mission-control-style interface where a logged-<br/><br/><sub>Java · updated Apr 2026</sub></td><td valign="top" width="25%"><a href="https://github.com/1Dhairyak/Stock-Price-Alert-System"><b>stock-alert</b></a><br/><br/>Developed a backend system that tracks stock prices and sends automated email alerts when target price conditi<br/><br/><sub>Java · updated Mar 2026</sub></td><td valign="top" width="25%"><a href="https://github.com/1Dhairyak/-N-Queens-Visualizer-description-"><b>n-queens</b></a><br/><br/>A web-based visualizer for the N-Queens problem, built with HTML, CSS, and JavaScript. It demonstrates the bac<br/><br/><sub>JavaScript · updated Jul 2026</sub></td></tr></table>
+<table><tr><td valign="top" width="25%"><a href="https://github.com/1Dhairyak/Spotify-YouTube-music-visualizer-software"><b>music-visualizer</b></a><br/><br/>Turns whatever you play on Spotify or YouTube Music into time-synced lyrics drawn as a glowing constellation. <br/><br/><sub>JavaScript · updated Nov 2026</sub></td><td valign="top" width="25%"><a href="https://github.com/1Dhairyak/Nova-stack-Full-stack-space-data-dashboard-with-real-time-WebSocket-streaming"><b>nova-stack</b></a><br/><br/>Nova is a real-time space operations dashboard — essentially a mission-control-style interface where a logged-<br/><br/><sub>Java · updated Nov 2026</sub></td><td valign="top" width="25%"><a href="https://github.com/1Dhairyak/SearchWars"><b>searchwars</b></a><br/><br/>Higher-or-lower game on real Wikipedia page views: 100 items across 8 categories, refreshed automatically from<br/><br/><sub>JavaScript · updated Oct 2026</sub></td><td valign="top" width="25%"><a href="https://github.com/1Dhairyak/-N-Queens-Visualizer-description-"><b>n-queens</b></a><br/><br/>A web-based visualizer for the N-Queens problem, built with HTML, CSS, and JavaScript. It demonstrates the bac<br/><br/><sub>JavaScript · updated Jul 2026</sub></td></tr></table>
 
 <p align="center">✦ ─────────────── ✦</p>
 
@@ -56,7 +56,7 @@
 
 <img src="assets/trail.svg" width="100%" alt="Contribution activity for the past year" />
 
-<p align="center"><sub>1 day current streak · 71 active days</sub></p>
+<p align="center"><sub>1 day current streak · 70 active days</sub></p>
 
 <p align="center">✦ ─────────────── ✦</p>
 

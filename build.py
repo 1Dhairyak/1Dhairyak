@@ -16,7 +16,7 @@ FOCUS = [("Java / Spring Boot", "Current focus"),
 FEATURED = [  # (repo, display name)
     ("Spotify-YouTube-music-visualizer-software", "music-visualizer"),
     ("Nova-stack-Full-stack-space-data-dashboard-with-real-time-WebSocket-streaming", "nova-stack"),
-    ("Stock-Price-Alert-System", "stock-alert"),
+    ("SearchWars", "searchwars"),
     ("-N-Queens-Visualizer-description-", "n-queens"),
 ]
 LINKS = [("GitHub", f"https://github.com/{LOGIN}", f"@{LOGIN.lower()}"),
