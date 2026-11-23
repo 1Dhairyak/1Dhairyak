@@ -140,7 +140,7 @@ def constellation(projs):
     links = "".join(f'<line x1="600" y1="260" x2="{x}" y2="{y}" stroke="{ACC}" stroke-opacity=".35" stroke-dasharray="3 6"/>' for x, y, _ in pos[1:])
     nodes = "".join(node(x, y, r, p["lang"], i) +
                     f'<text x="{x}" y="{y + r + 30}" text-anchor="middle" class="w" font-size="15">{escape(p["alias"])}</text>'
-                    f'<text x="{x}" y="{y + r + 48}" text-anchor="middle" class="m" font-size="11">{escape(p["lang"])} · {p["stars"]} stars</text>'
+                    f'<text x="{x}" y="{y + r + 48}" text-anchor="middle" class="m" font-size="11">{escape(p["lang"])} · updated {p["pushed"]:%b %Y}</text>'
                     for i, ((x, y, r), p) in enumerate(zip(pos, projs)))
     return svg(460, head("PROJECT CONSTELLATION", "A universe of work") + links + nodes)
 
@@ -157,7 +157,7 @@ def launch(projs):
         out.append(f'<g class="in" style="animation-delay:{.3 + i * .25}s"><text x="{x}" y="{ty - 22}" text-anchor="middle" class="m" font-size="11">{p["pushed"]:%d / %b %Y}</text>'
                    f'<text x="{x}" y="{ty}" text-anchor="middle" class="w" font-size="16">{escape(p["alias"])}</text>'
                    f'<text x="{x}" y="{ty + 20}" text-anchor="middle" class="m" font-size="11">{escape(p["desc"][:40])}</text>'
-                   f'<text x="{x}" y="{ty + 38}" text-anchor="middle" class="a" font-size="11" opacity=".7">{escape(p["lang"])} · {p["stars"]} stars</text></g>')
+                   f'<text x="{x}" y="{ty + 38}" text-anchor="middle" class="a" font-size="11" opacity=".7">{escape(p["lang"])}</text></g>')
     out.append(f'<text x="40" y="440" class="m" font-size="11">{len(seq)} featured repositories · follow the line from first signal to latest motion</text>')
     return svg(470, head("PROJECT LAUNCH SEQUENCE", "Where the work went next") + "".join(out), css)
 
@@ -209,9 +209,6 @@ def main():
     langs = sorted(((n, 100 * s / tot) for n, s in sizes.items()), key=lambda t: -t[1])
     cal = u["contributionsCollection"]["contributionCalendar"]
     days = [d for w in cal["weeks"] for d in w["contributionDays"]]
-    stars = sum(r["stargazerCount"] for r in repos)
-    stats = [("repositories", u["repositories"]["totalCount"]), ("stars", stars),
-             ("contributions", cal["totalContributions"]), ("followers", u["followers"]["totalCount"])]
     projs = [{"name": n, "alias": a, "url": by[n]["url"], "desc": by[n]["description"] or "Work in progress.",
               "lang": (by[n]["primaryLanguage"] or {}).get("name", "Code"), "stars": by[n]["stargazerCount"],
               "pushed": datetime.fromisoformat(by[n]["pushedAt"].replace("Z", "+00:00"))} for n, a in FEATURED if n in by]
@@ -223,6 +220,8 @@ def main():
     while counts.get(day.isoformat()):
         streak, day = streak + 1, day - timedelta(days=1)
     active = sum(1 for c in counts.values() if c)
+    stats = [("repositories", u["repositories"]["totalCount"]), ("contributions", cal["totalContributions"]),
+             ("active days", active), ("languages", len(sizes))]
 
     files = {"hero": hero(u, stats), "focus": focus(), "tools": tools(langs), "constellation": constellation(projs),
              "launch": launch(projs), "momentum": momentum(stats), "trail": trail(days, cal["totalContributions"]),
@@ -237,7 +236,7 @@ def main():
     focus_md = " · ".join(f"`{f[0]}`" for f in FOCUS)
     proj_cells = "".join(
         f'<td valign="top" width="25%"><a href="{p["url"]}"><b>{escape(p["alias"])}</b></a><br/><br/>{escape(p["desc"][:110])}'
-        f'<br/><br/><sub>{escape(p["lang"])} · ⭐ {p["stars"]}</sub></td>' for p in projs)
+        f'<br/><br/><sub>{escape(p["lang"])} · updated {p["pushed"]:%b %Y}</sub></td>' for p in projs)
     sig = "<br/>".join(f"<b>{v:,}</b> {k}" for k, v in stats)
     readme = f"""<div align="center">
 
