@@ -1,18 +1,77 @@
-# 💫 About Me:
-<br><br>---<br><br>🔭 I'm currently working on **an AI-powered multilingual advisory system for farmers, a NASA/SpaceX Mission Control API, and a high-concurrency Flash Sale engine in Java**<br><br>👯 I'm looking to collaborate on **cloud-native backend systems, serverless architectures, and anything involving AWS or distributed systems**<br><br>🤝 I'm looking for help with **advanced DSA and competitive programming in C++**<br><br>🌱 I'm currently learning **C++, Data Structures & Algorithms, and deepening my Java/Spring Boot expertise**<br><br>💬 Ask me about **AWS, Azure, serverless architecture, Java, Spring Boot, or cloud cost optimization**<br><br>⚡ Fun fact **I build full-stack cloud systems by day and play story-driven games by night — currently rating every game I finish out of 10**
+<div align="center">
 
+<p><sub>LIVING PROFILE · 1DHAIRYAK · LIVE</sub></p>
 
-## 🌐 Socials:
-[![Bluesky](https://img.shields.io/badge/bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=%23FFFFFF)](https://bsky.app/profile/dhairya) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/dhairya_68) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/dhairya153) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:dhairyakumar490@gmail.com) 
+<img src="assets/hero.svg" width="100%" alt="Dhairya animated identity card with ASCII portrait" />
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Adobe Lightroom Classic](https://img.shields.io/badge/Adobe%20Lightroom%20Classic-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom%20Classic&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=1DhairyaK&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=1DhairyaK&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=1DhairyaK&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<p><strong>Cloud &amp; Backend Engineer</strong></p>
+<p>I build full-stack cloud systems by day and play story-driven games by night.</p>
+<p><a href="https://github.com/1Dhairyak">GitHub</a> · <a href="https://linkedin.com/in/dhairya153">LinkedIn</a> · <a href="mailto:dhairyakumar490@gmail.com">Email</a></p>
+</div>
 
----
-[![](https://visitcount.itsvg.in/api?id=1DhairyaK&icon=0&color=0)](https://visitcount.itsvg.in)
+<p align="center">✦ ─────────────── ✦</p>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## Identity, with signal
+
+<table><tr>
+<td valign="top" width="70%">I build full-stack cloud systems by day and play story-driven games by night.<br/><br/><b>Focus:</b> `Java / Spring Boot` · `AWS / Azure` · `C++ / DSA`<br/><br/><sub>Cloud-native backends, serverless architectures, and distributed systems that hold up under load.</sub></td>
+<td valign="top"><code>LIVE SIGNAL</code><br/><br/><b>27</b> repositories<br/><b>0</b> stars<br/><b>323</b> contributions<br/><b>0</b> followers</td>
+</tr></table>
+
+<p align="center">✦ ─────────────── ✦</p>
+
+## What moves the work
+
+<img src="assets/focus.svg" width="100%" alt="Current focus areas" />
+
+<p align="center"><sub>Positioning is useful when the proof is close behind it.</sub></p>
+
+<p align="center">✦ ─────────────── ✦</p>
+
+## The tools behind the signal
+
+<img src="assets/tools.svg" width="100%" alt="Language breakdown of public code" />
+
+<p align="center"><sub>JavaScript · Java · TypeScript · Python · HTML · CSS · Shell · Dockerfile · AWS · Azure · Spring Boot · React · Node.js — chosen for the work, not the trend</sub></p>
+
+<p align="center">✦ ─────────────── ✦</p>
+
+## Built, shipped, shared
+
+<img src="assets/constellation.svg" width="100%" alt="Featured projects constellation" />
+
+<img src="assets/launch.svg" width="100%" alt="Featured projects timeline" />
+
+<table><tr><td valign="top" width="25%"><a href="https://github.com/1Dhairyak/Spotify-YouTube-music-visualizer-software"><b>music-visualizer</b></a><br/><br/>Turns whatever you play on Spotify or YouTube Music into time-synced lyrics drawn as a glowing constellation. <br/><br/><sub>JavaScript · ⭐ 0</sub></td><td valign="top" width="25%"><a href="https://github.com/1Dhairyak/Nova-stack-Full-stack-space-data-dashboard-with-real-time-WebSocket-streaming"><b>nova-stack</b></a><br/><br/>Nova is a real-time space operations dashboard — essentially a mission-control-style interface where a logged-<br/><br/><sub>Java · ⭐ 0</sub></td><td valign="top" width="25%"><a href="https://github.com/1Dhairyak/Stock-Price-Alert-System"><b>stock-alert</b></a><br/><br/>Developed a backend system that tracks stock prices and sends automated email alerts when target price conditi<br/><br/><sub>Java · ⭐ 0</sub></td><td valign="top" width="25%"><a href="https://github.com/1Dhairyak/-N-Queens-Visualizer-description-"><b>n-queens</b></a><br/><br/>A web-based visualizer for the N-Queens problem, built with HTML, CSS, and JavaScript. It demonstrates the bac<br/><br/><sub>JavaScript · ⭐ 0</sub></td></tr></table>
+
+<p align="center">✦ ─────────────── ✦</p>
+
+## Momentum, made visible
+
+<img src="assets/momentum.svg" width="100%" alt="Profile stats" />
+
+<p align="center">✦ ─────────────── ✦</p>
+
+## The trail behind the work
+
+<img src="assets/trail.svg" width="100%" alt="Contribution activity for the past year" />
+
+<p align="center"><sub>1 day current streak · 71 active days</sub></p>
+
+<p align="center">✦ ─────────────── ✦</p>
+
+<div align="center">
+
+<sub>KEEP THE SIGNAL MOVING</sub>
+
+## Make something worth noticing
+
+I like working with people who care about scale, clean architecture, and shipping the useful version.
+
+<img src="assets/channel.svg" width="100%" alt="Contact links" />
+
+<p><a href="https://github.com/1Dhairyak">GitHub</a> · <a href="https://linkedin.com/in/dhairya153">LinkedIn</a> · <a href="mailto:dhairyakumar490@gmail.com">Email</a> · <a href="https://instagram.com/dhairya_68">Instagram</a> · <a href="https://bsky.app/profile/dhairya">Bluesky</a></p>
+
+<sub>Dhairya · refreshed daily from live GitHub data</sub>
+
+</div>
