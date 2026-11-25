@@ -56,7 +56,7 @@
 
 <img src="assets/trail.svg" width="100%" alt="Contribution activity for the past year" />
 
-<p align="center"><sub>1 day current streak · 70 active days</sub></p>
+<p align="center"><sub>0 day current streak · 70 active days</sub></p>
 
 <p align="center">✦ ─────────────── ✦</p>
 
